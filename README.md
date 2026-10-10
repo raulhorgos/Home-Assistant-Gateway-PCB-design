@@ -1,6 +1,5 @@
 # Home Assistant Gateway PCB design 
-This repository contains the hardware design files for the TIE 2025 Home Assistant Gateway project, as detailed in the reference document 
-"TIE 2025-R2_SCH.PDF". 
+This repository contains the hardware design files for the TIE 2025 Home Assistant Gateway project.
 The gateway is designed to act as the central brain of a smart home, bridging communication between devices and automating routines. 
 It enables the control of smart lights, thermostats, and appliances while integrating communication protocols like Wi-Fi, Zigbee, 
 and Bluetooth. 
