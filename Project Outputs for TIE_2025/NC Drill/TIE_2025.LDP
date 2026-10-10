@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: D:\UTCN\Licenta\00. TIE subiecte\TIE2025\TIE_2025\TIE_2025.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=tie_2025-roundholes.txt|DrillLayers=gtl,gp1,gp2,g1,gp3,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=tie_2025-slotholes.txt|DrillLayers=gtl,gp1,gp2,g1,gp3,gbl
+LayersSetName=Top_L3-PWR_Blind_Vias|DrillFile=tie_2025-roundholes.tx2|DrillLayers=gtl,gp1,gp2
+LayersSetName=Top_L2-GND_Blind_Vias|DrillFile=tie_2025-roundholes.tx3|DrillLayers=gtl,gp1

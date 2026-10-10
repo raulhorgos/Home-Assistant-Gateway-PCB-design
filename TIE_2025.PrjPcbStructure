@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=Ethernet.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=MPU-PIO.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=MPU-Power.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=MPU-System.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=PMIC.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=SDCard-MIPI-User.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Ethernet.SchDoc|FileName=USB.SchDoc|SheetNumber=4

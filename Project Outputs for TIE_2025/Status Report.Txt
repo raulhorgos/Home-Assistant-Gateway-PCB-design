@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [TIE_2025.PcbDoc]
+   Generated File[Pick Place for TIE_2025.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:29:29 PM On 4/4/2025
